@@ -1,0 +1,8 @@
+.example {
+    margin: var(--ws-large);
+    padding: var(--ws-normal);
+}
+
+.example>* {
+    margin: var(--ws-normal);
+}

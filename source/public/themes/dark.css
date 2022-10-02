@@ -1,0 +1,24 @@
+@import "/css/dx.dark.css"; /* DevExpress theme file */
+
+:root {
+    --font-color: white;
+    --background-color: black;
+    --background-color-secondary: #545454;
+    --font-color-rgb: 255, 255, 255;
+
+    --accent-color: rgb(94, 86, 255);
+
+    --green: rgb(0, 255, 0);
+    --green-rgb: 0, 255, 0;
+    --orange: orange;
+    --orange-rgb: 255,165,0;
+    --red: red;
+    --red-rgb: 255, 0, 0;
+    --gray: gray;
+    --gray-rgb: 128, 128, 128;
+
+    --ws-normal: 18px;
+    --ws-large: 27px;
+    --ws-small: 7px;
+    --ws-normal-inverse: calc(var(--ws-normal) * -1);
+}

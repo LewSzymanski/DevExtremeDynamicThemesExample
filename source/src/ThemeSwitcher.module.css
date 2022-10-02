@@ -1,0 +1,8 @@
+.themeButtons {
+    display: flex;
+    flex-direction: row;
+}
+
+.themeButtons>*+* {
+    margin-left: var(--ws-normal);
+}
